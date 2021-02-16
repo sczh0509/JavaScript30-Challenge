@@ -6,5 +6,4 @@ This challenge is created by __Wes Bos__ and his repository can be found [here](
 
 | Number | Files      | Demos |
 | ------ | ---------- | ----- |
-| 01     |            | https://sczh0509.github.io/JavaScript30-Challenge/index-START.html      |
-
+| 01     |            | https://sczh0509.github.io/JavaScript30-Challenge/01%20-%20JavaScript%20Drum%20Kit/index-START.html|
