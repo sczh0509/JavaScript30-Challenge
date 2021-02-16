@@ -6,5 +6,5 @@ This challenge is created by __Wes Bos__ and his repository can be found [here](
 
 | Number | Files      | Demos |
 | ------ | ---------- | ----- |
-| 01     |            |       |
+| 01     |            | https://sczh0509.github.io/JavaScript30-Challenge/index-START.html      |
 
